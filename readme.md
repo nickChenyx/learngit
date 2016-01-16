@@ -8,6 +8,9 @@
 
 - 添加了当天的练字图片记录
 - 测试了`md`文件可以被转换(显示md格式)，`html`只显示源代码
+- **Do you know why people like violence? It is because it feels good. Humans find violence deeply satisfying. But remove the satisfaction, and the act becomes... hollow.**
+
+
 
 >2016-01-15 17:06:11
 
