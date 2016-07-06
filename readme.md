@@ -4,6 +4,11 @@
 
 ###ChangeLog
 
+>2016-7-6 11:57:49
+
+- 添加暑假书单 
+[暑假书籍列表[未完]](./暑假书籍列表[未完].md)
+
 >2016-4-23 18:32:08
 
 - 跟进了[Flask的学习](http://www.pythondoc.com/flask-mega-tutorial/index.html),自从上次Hackathon之后就没啥进展了... 真是汗颜，现在补完这个项目。
