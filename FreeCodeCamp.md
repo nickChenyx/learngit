@@ -1,5 +1,14 @@
 #FreeCodeCamp Note
 
+##HTML
+
+- `<h1><h2>....<h6>` remember to close ;
+- `<img src="url" alt="describe-what-will-be-rendered" />`
+- `<a href="url-you-want-to-go">Your Description</a>` ,in addition to `href="#"` will be dead link ;
+- `<ul><li></li></ul>` **||** `<ol><li></li></ol>` ;
+- `<form action="url"></form>` use to submit data ;
+- `<p>   <span>    <br>    <hr>`
+
 ##Bootstrap
 
 - Use Responsive Design: add class `container-fluid` to upper `div` tag.
@@ -7,7 +16,7 @@
 - change `font` :
     - `font-family` >arg_ `Monospace`;
     - `font-size`   >arg_ `px`,`em` [ref](https://www.w3.org/Style/Examples/007/units.en.html);
-    - `font-color`  >arg_ `red`,`rgb()`,`#fff`
+    - `font-color`  >arg_ `red`,`rgb()` || `rgba()` ,`#fff`
 - `border` :
     - `border-color`  >arg_ same like `font-color` above;
     - `border-width`  >arg_ `px` ;
